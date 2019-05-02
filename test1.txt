@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is E428-1D36
-
- Directory of C:\Users\9500530\Desktop\MyProject
-
-05/02/2019  01:43 PM    <DIR>          .
-05/02/2019  01:43 PM    <DIR>          ..
-05/02/2019  01:43 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  135,395,733,504 bytes free
+change 1
